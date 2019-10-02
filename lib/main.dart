@@ -25,7 +25,7 @@ class MyFlutterAppBody extends StatelessWidget {
       color: Colors.amber,
       child: Center(
         child: Text(
-          "Hello From Flutter",
+          "Test Brunch",
           textDirection: TextDirection.ltr,
           style: TextStyle(fontSize: 40.0),
         ),
